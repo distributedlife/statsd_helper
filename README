@@ -1,0 +1,6 @@
+statsd_helper
+
+This gem helps bring some consistency across the multiple statsd gems that I use.
+
+Currently included:
+-  get_metric_prefix - my consistent way of naming metrics
